@@ -1,18 +1,12 @@
-title:              Work Visa Woes
-email:              abhir2193@gmail.com
-description:        A new blog for silent thoughts and digital yelling
-author:             RS
-baseurl:            "/workvisawoes"
-url:                "https://workvisawoes.github.io"
-
-# Social Profiles
-youtube_username:   405bpmband
-instagram_username:  405bpmband
-
-# Build settings
-markdown:           kramdown
-paginate:           5
-paginate_path:      "/posts/page:num/"
+title: "Work Visa Woes"
+email: "abhir2193@gmail.com"
+description: "A new blog for silent thoughts and digital yelling"
+author: "RS"
+baseurl: "/workvisawoes"
+url: "https://workvisawoes.github.io"
+markdown: "kramdown"
+paginate: 5
+paginate_path: "/posts/page:num/"
 plugins:
   - jekyll-feed
   - jekyll-paginate
