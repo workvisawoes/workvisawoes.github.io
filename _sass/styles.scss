@@ -1,2 +1,7 @@
 // Import Core Clean Blog SCSS
 @import "../assets/vendor/startbootstrap-clean-blog/scss/styles.scss";
+
+// Custom styles
+.post-content p {
+  font-size: 16px;
+}
